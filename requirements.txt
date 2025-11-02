@@ -1,0 +1,9 @@
+psutil>=5.9.0
+requests>=2.28.0
+Pillow>=9.0.0
+tkinter
+threading
+json
+time
+os
+sys

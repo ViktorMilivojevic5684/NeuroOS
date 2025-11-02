@@ -1,0 +1,2 @@
+Welcome to NeuroOS File System!
+This is a safe file system with AI monitoring.
